@@ -1,3 +1,5 @@
+@import "https://fonts.google.com/specimen/Lexend+Deca"
+@import "https://fonts.google.com/specimen/Big+Shoulders+Display"
 * {
     vertical-align: baseline;
     font-weight: inherit;
@@ -25,17 +27,6 @@ body {
     align-items: center;
     min-height: 100vh;
   }
-
-
-@font-face {
-    font-family: Deca;
-    src: url(https://fonts.google.com/specimen/Lexend+Deca);
-}
-
-@font-face {
-    font-family: BSD;
-    src: url(https://fonts.google.com/specimen/Big+Shoulders+Display);
-}
 
 .container{
     display:flex ;
@@ -74,7 +65,7 @@ body {
 
 p{  
     font-size: 15px;
-    font-family: Deca;
+    font-family: Lexend Deca;
     font-weight: 400;
     color: var(--Transparent_white);
 }
@@ -82,7 +73,7 @@ h1{
     padding:20px 0px ;
     margin: auto;
     font-size: 25px;
-    font-family: BSD;
+    font-family: Big Shoulders Display ;
     font-weight: 700;
     color:var(--Very_light_gray);
 }
