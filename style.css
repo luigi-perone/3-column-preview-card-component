@@ -1,5 +1,6 @@
-@import "https://fonts.google.com/specimen/Lexend+Deca";
-@import "https://fonts.google.com/specimen/Big+Shoulders+Display";
+@import url('https://fonts.googleapis.com/css?family=Lexend+Deca');
+@import url('https://fonts.googleapis.com/css?family=Big+Shoulders+Display');
+
 * {
     vertical-align: baseline;
     font-weight: inherit;
